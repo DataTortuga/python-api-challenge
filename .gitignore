@@ -2,8 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-**/WeatherPy/Config/api_keys.py
 **Intructions
+WeatherPy/Config/
+VacationPy/Config/
 # C extensions
 *.so
 
